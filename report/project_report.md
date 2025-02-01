@@ -194,7 +194,7 @@ We did not implement a full simulation of the PID loops. We did however implemen
 
 ### Roles and Responsibilities
 
-#### Wiktor Dębowski
+#### @Vijtus
 - **Project Manager**: Wiktor kept track of the project's progress and made sure that the team was on track to meet the deadlines.
 
 - **Camera Operator**: Wiktor participated in the outdoor testing and was responsible for recording the drone's flight.
@@ -204,7 +204,7 @@ We did not implement a full simulation of the PID loops. We did however implemen
 - **Electrical Assembly**: Wiktor helped with the assembly of the controller board.
 
 
-#### Dmytro Luchyn
+#### @diminDDL
 - **Hardware**: Dmytro engineered the hardware for the controller board and tested it. And directed the hardware assembly.
 
 - **Embedded firmware Engineering**: Dmytro has implemented the majority of the embedded firmware for the controller board. This includes the HALs for the IMU and the RC receiver, as well as the PID loops and the telemetry.
@@ -212,10 +212,3 @@ We did not implement a full simulation of the PID loops. We did however implemen
 - **Drone Architect and Pilot**: Dmytro participated in the outdoor testing and was responsible for piloting the drone. He also oversaw the drone's design and assembly.
 
 - **Documentation Consolidation**: Dmytro was responsible for compiling the project files, inspecting them and uploading them to the repository.
-
-#### Aliakasei Kvach
-- **Research Engineer**: Performed research on the different control algorithms and approaches used in drone control systems. This research was used to improve the PID tuning and the control algorithm.
-
-- **Mechanical Engineering**: Aliakasei helped by assembling the drone and the test stand. He also helped with the indoor testing and tuning of the drone.
-
-- **Theoretical Consultant**: Aliakasei helped us better understand the theory behind the control algorithms and the drone dynamics. He also helped with making the simulation of the drone dynamics.
