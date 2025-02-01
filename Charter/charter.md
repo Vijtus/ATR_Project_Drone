@@ -1,9 +1,9 @@
 # Advanced Topics in Robotics: Project Charter
 
 ### Group members:
-- Wiktor Debowski
-- Dmytro Luchyn
-- Aliakasei Kvach
+- @Vijtus
+- @diminDDL 
+
 
 # Proposed project:
 We propose to create a basic controller for a quadcopter. We already have a working and proven platform that works with existing firmware/controllers, and is easily modifiable.
@@ -53,14 +53,14 @@ The project can later be expanded to be a fully featured universal navigation co
 
 ## Roles and Responsibilities
 
-### Wiktor Dębowski
+### @Vijtus
 - **Project Manager**: As the director of the STYK student club, Wiktor has experience in team and project management with a good track record of delivering everything on time.
 
 - **High level Software**: With knowledge in programming languages like Python and MATLAB, he plays a role in performing simulations and verifying concepts on a higher level before spending the time to implement in the embedded firmware.
 
 - **Drone Pilot**: Wiktor has an active drone certification, making him a qualified pilot for testing rounds.
 
-### Dmytro Luchyn
+### @diminDDL
 - **Hardware**: Dmytro's profound knowledge in electronics and mechanics make him the ideal candidate to design and integrate the hardware components of this project.
 
 - **Embedded firmware Engineering**: Dmytro has 4 years of freelance experience working on and implementing custom firmware for constrained embedded systems in C and C++. This makes him the perfect candidate to implement the algorithms in an efficient and safe manner.
